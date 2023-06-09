@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<div>
-    <img src="https://cdn.adh.reperio.news/image-d/d7d64e56-16e3-426c-9f62-2817acff9d89/index.jpeg?p=f%3Dpng%26w%3D1400%26r%3Dcontain" width="100%" height="100%">
-</div>
-
 <table border="0" cellpadding="0" cellspacing="0">
     <tr>
         <td align="center" valign="center"><p>Hi there 👋</p></td>
