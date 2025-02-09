@@ -17,3 +17,5 @@ More about myself:
 - 🤔 I’m looking for help with implementation for great ideas.
 - 💬 Ask me about anything related with programming 🧑🏻‍💻 or coffee ☕
 - ⚡ Hobbies: I like coffee ☕, lifting weights 🏋🏻, and reading 📚
+
+![Visitor Count](https://profile-counter.glitch.me/JJTuddi/count.svg)
